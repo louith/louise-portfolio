@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Helvetica-Light";
+  src: url('/public/fonts/helvetica-light.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body, #__next{
+    height: 98%;
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
